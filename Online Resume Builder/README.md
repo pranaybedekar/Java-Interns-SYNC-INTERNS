@@ -6,3 +6,5 @@ An online resume builder in Java Swing is a web-based software application that 
 
 https://github.com/pranaybedekar/Java-Interns-SYNC-INTERNS/assets/81001795/1f7ed858-2602-4bd7-993b-e2011a52b2f1
 
+# Generated Resume
+[resume.pdf](https://github.com/pranaybedekar/Java-Interns-SYNC-INTERNS/files/12266544/resume.pdf)
