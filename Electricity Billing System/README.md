@@ -10,11 +10,11 @@ The system also includes features such as payment tracking, late payment reminde
 Overall, the electricity billing system using Java Swing provides an efficient and accurate way for electricity companies to manage their billing process, reduce errors, and improve customer service.
 
 # Output
+Please check in Results Folder.
 
 
 
 
-https://github.com/pranaybedekar/Java-Interns-SYNC-INTERNS/assets/81001795/5283b4cd-957c-448a-823a-c92befc14080
 
 
 
