@@ -12,7 +12,11 @@ Overall, the electricity billing system using Java Swing provides an efficient a
 # Output
 
 
-https://github.com/pranaybedekar/Java-Interns-SYNC-INTERNS/assets/81001795/f146a1b2-0a17-4edf-9567-44ba329838b3
+
+
+https://github.com/pranaybedekar/Java-Interns-SYNC-INTERNS/assets/81001795/5283b4cd-957c-448a-823a-c92befc14080
+
+
 
 
 
